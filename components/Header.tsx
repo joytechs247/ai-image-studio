@@ -7,7 +7,7 @@ const Header: React.FC = () => {
         <h1 className="text-3xl sm:text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-500">
           AI Image Studio
         </h1>
-        <p className="mt-1 text-md text-gray-400">Powered by Gemini</p>
+        <p className="mt-1 text-md text-gray-400">Edit Your Images Using AI</p>
       </div>
     </header>
   );
